@@ -1,0 +1,21 @@
+td, th {
+    border: 1.5px solid black;
+}
+table {position: relative; left: 240px; width: 60%; height: 50px; margin-top: 20px;
+    border-collapse: collapse;
+}
+#logo{display: block;margin: auto;}
+h1{text-align: center;color: rgba(2, 54, 12, 0.767);  width: 70%; position: relative; left: 170px; font-size: 40px;}
+h2{color: aliceblue; background-color: blue;  padding: 10px; width: 70%; margin: 0 auto;font-size: 25px;}
+h3{color: green;}
+ol{width: 68%; position: relative; left: 170px;}
+#ul{border: 1.5px solid blue; width: 70%; position: relative; left: 170px; padding: 10px; font-size: 16px;}
+#li{position: relative;left: 30px;}
+#gre{width: 68%; position: relative; left: 170px;}
+#th{border-top-color: transparent; border-left-color: transparent;}
+#td{text-align: center; background-color: rgba(189, 184, 184, 0.653);}
+#td1{text-align: center; background-color: yellow;}
+#td2{text-align: center; background-color: yellow;}
+#td3{background-color: greenyellow; text-align: center;}
+#td4{text-align: center; background-color: rgba(189, 184, 184, 0.653);}
+#td5{background-color: greenyellow;text-align: center;}
